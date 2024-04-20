@@ -1,0 +1,11 @@
+{
+    "name": "boxdenVision",
+    "version_number": "1.0.0",
+    "website_url": "",
+    "description": "Made for friends. Here 20+ mods",
+    "dependencies": [
+		"BepInEx-BepInExPack-5.4.2100",
+		"Hamunii-AutoHookGenPatcher-1.0.2",
+		"RamuneNeptune-SkipIntroScreen-1.0.0"
+	]
+}
