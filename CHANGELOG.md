@@ -1,3 +1,9 @@
+## `v 1.0.1`
+
+Update packages
+
+- Mycelium Networking `v1.0.11` -> `v1.0.12`
+
 ## `v 1.0.0`
 
 Initial release
