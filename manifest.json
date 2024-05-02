@@ -1,6 +1,6 @@
 {
   "name": "boxdenVision",
-  "version_number": "1.0.1",
+  "version_number": "1.0.2",
   "website_url": "https://github.com/boxden/CW-ModPack",
   "description": "Made for friends. Here 20+ mods",
   "dependencies": [
@@ -15,7 +15,7 @@
     "Playboi-HellDivers-1.0.0",
     "Tim_Shaw-Goofy_Ahh_Blender-0.1.0",
     "Hamunii-DetourContext_Dispose_Fix-1.0.3",
-    "Hamunii-AutoHookGenPatcher-1.0.3",
+    "Hamunii-AutoHookGenPatcher-1.0.4",
     "CTWOriginals-DevelopmentStartup-1.0.1",
     "Jasson9-MoreSettings-0.2.0",
     "Froj-Diving_Bell_Tweaks-1.1.1",
