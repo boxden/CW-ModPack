@@ -1,3 +1,9 @@
+## `v 1.0.2`
+
+Update packages
+
+- Auto Hook Gen Patcher `v1.0.3` -> `v1.0.4`
+
 ## `v 1.0.1`
 
 Update packages
