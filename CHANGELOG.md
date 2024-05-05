@@ -1,3 +1,10 @@
+## `v 1.0.4`
+
+Update packages
+
+- Boombox `v1.1.2` -> `v1.1.3`
+- Free Shop `v1.0.1` -> `v1.3.0`
+
 ## `v 1.0.3`
 
 Update packages
