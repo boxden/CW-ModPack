@@ -1,6 +1,6 @@
 {
   "name": "boxdenVision",
-  "version_number": "1.0.4",
+  "version_number": "1.0.5",
   "website_url": "https://github.com/boxden/CW-ModPack",
   "description": "Made for friends. Here 20+ mods",
   "dependencies": [
@@ -26,6 +26,6 @@
     "loaforc-Flashcard-0.3.3",
     "RugbugRedfern-MyceliumNetworking-1.0.12",
     "kendog-Kendogs_boombox_music-1.1.3",
-    "LimeSkillZ-BoomboxMusicShare-2.1.0"
+    "LimeSkillZ-BoomboxMusicShare-2.2.0"
   ]
 }
