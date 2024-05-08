@@ -1,3 +1,9 @@
+## `v 1.0.5`
+
+Update packages
+
+- Boombox Music Share `v2.1.0` -> `v2.2.0`
+
 ## `v 1.0.4`
 
 Update packages
