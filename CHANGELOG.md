@@ -1,3 +1,10 @@
+## `v 1.0.6`
+
+Update packages
+
+- Development Startup `v1.0.1` -> `v1.1.0`
+- Boombox `v1.1.3` -> `v1.1.4`
+
 ## `v 1.0.5`
 
 Update packages
