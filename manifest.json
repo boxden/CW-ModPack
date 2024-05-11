@@ -1,6 +1,6 @@
 {
   "name": "boxdenVision",
-  "version_number": "1.0.6",
+  "version_number": "1.0.7",
   "website_url": "https://github.com/boxden/CW-ModPack",
   "description": "Made for friends. Here 20+ mods",
   "dependencies": [
@@ -21,7 +21,7 @@
     "Froj-Diving_Bell_Tweaks-1.1.1",
     "Computery-Fall_Fix-1.0.1",
     "FlawTECH-CWissKnife-1.1.1",
-    "hyydsz-Boombox-1.1.4",
+    "hyydsz-Boombox-1.1.5",
     "hyydsz-ShopUtils-1.0.8",
     "loaforc-Flashcard-0.3.3",
     "RugbugRedfern-MyceliumNetworking-1.0.12",
