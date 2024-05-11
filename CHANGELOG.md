@@ -1,3 +1,9 @@
+## `v 1.0.7`
+
+Update packages
+
+- Boombox `v1.1.4` -> `v1.1.5`
+
 ## `v 1.0.6`
 
 Update packages
