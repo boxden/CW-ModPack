@@ -2,7 +2,7 @@
 
 Update packages
 
-Mycelium Networking `1.0.12` -> `v1.0.13`
+- Mycelium Networking `1.0.12` -> `v1.0.13`
 
 ## `v 1.0.7`
 
