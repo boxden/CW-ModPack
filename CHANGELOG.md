@@ -1,3 +1,9 @@
+## `v 1.0.12`
+
+Update packages
+
+- CWissKnife `v1.1.2` -> `v1.1.3`
+
 ## `v 1.0.11`
 
 Update packages
