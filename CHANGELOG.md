@@ -1,3 +1,11 @@
+## v1.0.14
+
+Update packages
+
+- DetourContext_Dispose_Fix will be updated to: `1.0.5`
+- AutoHookGenPatcher will be updated to: `1.0.7`
+
+
 ## v1.0.13
 
 All installed mods will be updated to their latest versions.
