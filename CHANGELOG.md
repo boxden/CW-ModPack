@@ -8,8 +8,8 @@ Update packages
 
 ## v1.0.13
 
-All installed mods will be updated to their latest versions.
-Any missing dependencies will be installed.
+All installed mods will be updated to their latest versions  
+Any missing dependencies will be installed  
 The following mods will be downloaded and installed:
 
 
@@ -105,9 +105,9 @@ Update packages
 
 ## v1.0.0
 
-Initial release
+Initial Release
 
-modlist:
+Modlist:
 - BepInEx Pack `v5.4.2100`
 - Official BepInEx Configuration Manager `v18.3.0`
 - Any Sprint Direction `v1.0.0`
