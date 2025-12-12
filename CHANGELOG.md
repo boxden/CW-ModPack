@@ -1,3 +1,12 @@
+## v1.0.15
+
+Update packages
+
+- BepInExPack will be updated to: `5.4.2304`
+- DetourContext_Dispose_Fix will be updated to: `1.0.7`
+- AutoHookGenPatcher will be updated to: `1.0.9`
+
+
 ## v1.0.14
 
 Update packages
