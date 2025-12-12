@@ -1,4 +1,4 @@
-## v1.0.15
+### v1.0.15
 
 Update packages
 
@@ -7,7 +7,7 @@ Update packages
 - AutoHookGenPatcher will be updated to: `1.0.9`
 
 
-## v1.0.14
+### v1.0.14
 
 Update packages
 
@@ -15,7 +15,7 @@ Update packages
 - AutoHookGenPatcher will be updated to: `1.0.7`
 
 
-## v1.0.13
+### v1.0.13
 
 All installed mods will be updated to their latest versions  
 Any missing dependencies will be installed  
@@ -26,49 +26,49 @@ The following mods will be downloaded and installed:
 - AutoHookGenPatcher will be updated to: `1.0.6`
 
 
-## v1.0.12
+### v1.0.12
 
 Update packages
 
 - CWissKnife `v1.1.2` -> `v1.1.3`
 
 
-## v1.0.11
+### v1.0.11
 
 Update packages
 
 - CWissKnife `v1.1.1` -> `v1.1.2`
 
 
-## v1.0.10
+### v1.0.10
 
 Update packages
 
 - Boombox Music Share `v2.2.0` -> `v2.5.0`
 
 
-## v1.0.9
+### v1.0.9
 
 Update packages
 
 - Mycelium Networking `1.0.13` -> `v1.0.14`
 
 
-## v1.0.8
+### v1.0.8
 
 Update packages
 
 - Mycelium Networking `1.0.12` -> `v1.0.13`
 
 
-## v1.0.7
+### v1.0.7
 
 Update packages
 
 - Boombox `v1.1.4` -> `v1.1.5`
 
 
-## v1.0.6
+### v1.0.6
 
 Update packages
 
@@ -76,14 +76,14 @@ Update packages
 - Boombox `v1.1.3` -> `v1.1.4`
 
 
-## v1.0.5
+### v1.0.5
 
 Update packages
 
 - Boombox Music Share `v2.1.0` -> `v2.2.0`
 
 
-## v1.0.4
+### v1.0.4
 
 Update packages
 
@@ -91,28 +91,28 @@ Update packages
 - Free Shop `v1.0.1` -> `v1.3.0`
 
 
-## v1.0.3
+### v1.0.3
 
 Update packages
 
 - Flashcard `v0.3.2` -> `v0.3.3`
 
 
-## v1.0.2
+### v1.0.2
 
 Update packages
 
 - Auto Hook Gen Patcher `v1.0.3` -> `v1.0.4`
 
 
-## v1.0.1
+### v1.0.1
 
 Update packages
 
 - Mycelium Networking `v1.0.11` -> `v1.0.12`
 
 
-## v1.0.0
+### v1.0.0
 
 Initial Release
 
